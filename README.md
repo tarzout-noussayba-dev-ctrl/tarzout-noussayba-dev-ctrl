@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">My name is Noussayba and I'm a 20y.o from algeria</h5>
+<h5 align="left">My name is Noussayba and I'm a 21y.o from algeria</h5>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning python<br>🎯 Goals: success<br>🎲 Fun fact: fast learner</p>
+<p align="left">✨ Creating web sits since 2023<br>📚 I'm currently learning python<br>🎯 Goals: guiding peopl to creat their own proffessionnel web site and gain clients <br>🎲 Fun fact: fast learner</p>
 
 ###
 
