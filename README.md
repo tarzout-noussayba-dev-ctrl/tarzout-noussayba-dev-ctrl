@@ -4,6 +4,8 @@
 
 <h5 align="left">My name is Noussayba and I'm a 21y.o from algeria</h5>
 
+<h5 align="left">tarzout.noussayba.dev@gmail.com</h5>
+
 ###
 
 <h2 align="left">About me</h2>
