@@ -1,10 +1,10 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
+
 ###
 
 <h5 align="left">My name is Noussayba and I'm a 21y.o from algeria</h5>
-
-<h5 align="left">tarzout.noussayba.dev@gmail.com</h5>
+<h1 align="left">tarzout.noussayba.dev@gmail.com</h1>
 
 ###
 
